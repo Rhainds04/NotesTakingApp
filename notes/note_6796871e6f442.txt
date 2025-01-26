@@ -1,0 +1,5 @@
+O:4:"Note":3:{s:5:"titre";s:18:"Recette Pain Doré";s:10:"categories";a:1:{i:0;s:7:"Cuisine";}s:7:"contenu";s:185:"Quantité : 3 tranches de pain  
+
+Ingrédients : 1 œuf, 2/3 tasse de lait, 1/2 cuillère à thé de vanille, 1 cuillère à soupe de cassonade.  
+
+Préparation : mélanger le tout.";}
